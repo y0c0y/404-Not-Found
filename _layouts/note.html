@@ -14,11 +14,11 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
-      <p>This line appears after every note.</p>
+      <p>연관된 노트가 없습니다!</p>
     </content>
 
     <side style="font-size: 0.9em">
-      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      <h3 style="margin-bottom: 1em">언급된 노트</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
         {% for backlink in page.backlinks %}
@@ -34,7 +34,7 @@ layout: default
 
       <div style="font-size: 0.9em">
         <p>
-          There are no notes linking to this note.
+          해당 내용을 언급한 노트가 없습니다!
         </p>
       </div>
       {% endif %}
