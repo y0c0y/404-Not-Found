@@ -8,7 +8,7 @@ permalink: /
 # Welcome! ☘️
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <span style="font-weight: bold">[[Y0C0Y의 그래프]]</span> 의 소개 입니다!
+  <span style="font-weight: bold">[[Y0C0Y의 뇌 구조]]</span>가 궁금하신 가요?
 </p>
 
 <strong>최근 업로드한 노트들</strong>
