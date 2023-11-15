@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+세상을 여행하며 개발하고 싶은 도비입니다! 😁
