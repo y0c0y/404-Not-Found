@@ -1,1 +1,0 @@
-[[OSI 7 Layers]] 중에서 Layer 3, 4를 다루는 프로토
