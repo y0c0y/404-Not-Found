@@ -1,0 +1,5 @@
+- 다음 인출할 명령어 주소(메모리 상의 주소)를 임시 저장하는 레지스터
+	- 각 명령어 인출 후에는, 1씩 증가
+	- 현재 수행 중인 명령어 주소는, ([[프로그램 카운터 ( Program Counter, PC)|PC]] -1 Word) = [[명령어 레지스터 (IR, Instruction Register) | IR]]
+	- 분기 명령어(jump, branch)일 경우에는, 해당 목적지 주소로 변경됨.
+- 명령어 포인터 (Instruction Pointer, IP)라고도 불림
